@@ -22,6 +22,7 @@ This function should search through each node in the binary search tree using po
 
 # bfs  
 This function should search through each node in the binary search tree using breadth first search and return an array containing each node’s value.
+
 --------------------------------------------
 # remove
 This function should remove a node from a binary search tree. Your remove function should be able to handle removal of the root node, removal of a node with one child and removal of a node with two children. The function should return the node removed.
